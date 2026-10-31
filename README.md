@@ -1,12 +1,15 @@
 # Yanis Blanchard
 
-I'm at the very beginning of a long road: learning computer science, for the rest of my life.\
-Full-stack development is my way in.\
-AI is my method: I embrace it fully to learn, and apply, the state of the art in software design, security and engineering.
+Former nurse, now a junior full-stack developer.\
+Learning computer science is a lifelong road; full-stack development is my way in.\
+I work with AI agents (Claude) as a pair: they speed up research and drafts, and I review, test and own every change I merge.\
+That is why Claude appears as an author or co-author on some of my commits.
 
 I hope to grow among people who love computer science as much as I do, contributing what I can, always doing my best.
 
 **Now:** looking for a work-study position (alternance) in France, remote-friendly, available now.
+
+**Stack:** TypeScript · React / Next.js · Node.js · PostgreSQL · Prisma · Zod · Vitest · GitHub Actions
 
 ## Three levels of abstraction
 
@@ -33,8 +36,8 @@ and I want to contribute to that transition.
 
 I learn independently and do my best focused work in a remote, low-distraction environment.\
 I collaborate through clear writing, thoughtful reviews and regular,\
-purposeful communication—and I’m always available to work through problems together.
+purposeful communication—and I’m always happy to work through problems together.
 
 ## Contact
 
-bonjour@yanisblanchard.com
+bonjour@yanisblanchard.com · [yanisblanchard.com](https://yanisblanchard.com)
