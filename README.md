@@ -1,42 +1,42 @@
 # Yanis Blanchard
 
-Former nurse, now a junior full-stack developer.\
-Learning computer science is a lifelong road; full-stack development is my way in.\
-I work with AI agents (Claude) as a pair: they speed up research and drafts, and I review, test and own every change I merge.\
-That is why Claude appears as an author or co-author on some of my commits.
+Junior full-stack developer, formerly a nurse (eleven years, ten of them in psychiatry).
+Looking for a work-study position (alternance) in Nantes, France, available now,
+to prepare OpenClassrooms' Full-Stack Developer qualification (RNCP level 6, bachelor's level, AI track):
+4 days a week at the company, 1 day in training.
 
-I hope to grow among people who love computer science as much as I do, contributing what I can, always doing my best.
+This career change is for the long run. 
+Full-stack web development is the craft I want to spend years getting better at,
+and through it i want to understand every layer, from the interface down to the machine.
 
-**Now:** looking for a work-study position (alternance) in France, remote-friendly, available now.
+## Projects
 
-**Stack:** TypeScript · React / Next.js · Node.js · PostgreSQL · Prisma · Zod · Vitest · GitHub Actions
-
-## Three levels of abstraction
-
-- **Orchestrate · Pixiety** (private beta on TestFlight). Learning agentic AI.
-  An iOS app that introduces Acceptance and Commitment Therapy through a pixel-art journey,
-  built by orchestrating Claude agents.
+- **[the-five-doors](https://github.com/8-relaunch-8/the-five-doors)**: 
+  a full-stack web app to manage a museum collection. 
+  Accounts and roles, a protected admin area,
+  JWT authentication, data validation, 77 tests and continuous integration.
   
-- **Understand · [the-five-doors](https://github.com/8-relaunch-8/the-five-doors).** Learning how a full-stack app works,
-  layer by layer: authentication, validation, database, tests, CI.
-  
-- **Go deeper · Rust** (next). Getting closer to the machine: memory, ownership,
-  and the logic of a programming language.
+- **[yanisblanchard.com](https://yanisblanchard.com)**: my personal website (static HTML and CSS, no JavaScript),
+  with HTTP security headers configured and checked.
+
+**Stack:** TypeScript · React · Next.js · PostgreSQL · Prisma · Zod · Vitest · GitHub Actions
 
 ## How I work
 
-Eleven years as a nurse taught me that mistakes are costly.\
-I bring the same culture to code: tests, reviews, written procedures, security by design.
+- **From nursing:** break a complex situation down before acting, write every decision down,
+  and see teamwork as a way to share knowledge, grow and decide together.
+- **From my full-stack training:** project-based learning, pair and mob programming, agile rituals.
+- **With AI:** I use AI as a learning support, and I am open about how.
+  On the-five-doors, GitHub Copilot suggested the code; I checked its advice against the official
+  documentation (Next.js, React, Prisma, Zod), then typed the code and handled Git myself.
+  Today I mainly use Claude as a tutor: it challenges my choices, I challenge its answers,
+  and I ask it to cite the official documentation. 
+  Since October 2026, commits written with Claude carry it as author or co-author.
+  My goal is to grow more autonomous over time. 
+  I welcome feedback on how I use AI, and I follow each team's rules.
 
-My experience in healthcare also showed me how much caregiving and software engineering have in common:\
-both start with understanding people’s needs and require care, clear communication and accountability.
-
-I believe people need thoughtful support as AI reshapes how we live and work,\
-and I want to contribute to that transition.
-
-I learn independently and do my best focused work in a remote, low-distraction environment.\
-I collaborate through clear writing, thoughtful reviews and regular,\
-purposeful communication—and I’m always happy to work through problems together.
+I want to learn alongside experienced developers and ship with them:
+features, bug fixes and tests, reviewed by the team.
 
 ## Contact
 
