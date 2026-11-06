@@ -7,7 +7,7 @@ to prepare OpenClassrooms' Full-Stack Developer qualification (RNCP level 6, bac
 
 This career change is for the long run. 
 Full-stack web development is the craft I want to spend years getting better at,
-and through it i want to understand every layer, from the interface down to the machine.
+and through it I want to understand every layer, from the interface down to the machine.
 
 ## Projects
 
